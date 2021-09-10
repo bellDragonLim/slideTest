@@ -6,7 +6,7 @@ body {
 }
 
 .container{
-  width: 500px;
+  width: 100vw;
   margin: 0 auto;
 }
 .swiper-container {
