@@ -20,4 +20,4 @@ const viewHeight = window.innerHeight;
 const swiperContainer = document.querySelector(".swiper-container");
 const container = document.querySelector(".container");
 swiperContainer.style.height = (viewHeight-20)+'px';
-container.style.width = (viewWidth-10)+'px';
+container.style.width = (viewWidth-20)+'px';
