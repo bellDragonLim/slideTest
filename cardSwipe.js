@@ -17,7 +17,6 @@ const cardSlide = new Swiper(".swiper-container", {
 const viewWidth = window.innerWidth;
 const viewHeight = window.innerHeight;
 
-console.log(viewWidth, viewHeight);
 const swiperContainer = document.querySelector(".swiper-container");
 const container = document.querySelector(".container");
 swiperContainer.style.height = viewHeight+'px';
